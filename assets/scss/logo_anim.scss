@@ -1,0 +1,13 @@
+.svgLogo {
+}
+.svgLogo path:nth-child(1){
+    stroke-dasharray: 6000px;
+    stroke-dashoffset: 6000px;
+    animation: anim 3s ease forwards;
+}
+
+@keyframes anim {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
