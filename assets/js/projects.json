@@ -14,6 +14,20 @@
         ]
     },
     {
+        "title": "Ice Skating backstages",
+        "subtitle": "Discover how to prepare an Aren Ice",
+        "description": "Short video to discover how people are working to prepare and garantee a high quality of Ice Skating. Thanks to @ice_master93 for the backstage",
+        "image": "/assets/img/portfolio/recap/portfolio_Arenice.gif",
+        "instaLink": "https://www.instagram.com/reel/C-0zjlrIQQI/",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/arenice.jpg",
+        "date": "June 2024",
+        "tags": [
+            "Video",
+            "⛸"
+        ]
+    },
+    {
         "title": "Bouygues @ VivaTechnology 2024",
         "subtitle": "Short institutional video",
         "description": "Short video to introduce Bouygues at VivaTechnology 2024",
@@ -53,7 +67,7 @@
         "date": "March 2024",
         "tags": [
             "Video",
-            "Event"
+            "🎭"
         ]
     },
     {
@@ -151,7 +165,7 @@
         "date": "December 2021",
         "tags": [
             "Video",
-            "Ballet"
+            "🩰"
         ]
     },
     {
@@ -165,7 +179,7 @@
         "date": "December 2021",
         "tags": [
             "Video",
-            "Ballet"
+            "🩰"
         ]
     },
     {
@@ -179,7 +193,7 @@
         "date": "September 2021",
         "tags": [
             "Video",
-            "Ballet"
+            "🩰"
         ]
     },
     {
@@ -193,7 +207,7 @@
         "date": "September 2021",
         "tags": [
             "Video",
-            "Ballet"
+            "🩰"
         ]
     },
     {
@@ -207,7 +221,7 @@
         "date": "September 2021",
         "tags": [
             "Video",
-            "Ballet"
+            "🩰"
         ]
     },
     {
@@ -217,7 +231,7 @@
         "image": "/assets/img/cover.jpg",
         "instaLink": "",
         "youtubeLink": "https://youtu.be/gDIrtptUT5Y",
-        "logo": "/assets/img/portfolio/logo/VT.jpg",
+        "logo": "/assets/img/portfolio/logo/EPIMAC.jpg",
         "date": "June 2020",
         "tags": [
             "Livestream",
