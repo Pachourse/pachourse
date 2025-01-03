@@ -112,6 +112,34 @@
         ]
     },
     {
+        "title": "Candeloro and Co",
+        "subtitle": "Ice Skating Spectacle",
+        "description": "Recording of a public representation of the show \"The Sandman's Daughter\" on ice by the Candeloro Show Company. An HDR production with an initial captation in Apple ProResRaw 6K",
+        "image": "/assets/img/portfolio/recap/portfolio_candeloro-spectacle-RECAP.gif",
+        "instaLink": "https://www.instagram.com/reel/C4iV1bcI5It/",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/candeloro.jpg",
+        "date": "December 2023",
+        "tags": [
+            "🎥 Video production",
+            "⛸️"
+        ]
+    },
+    {
+        "title": "Candeloro and Co",
+        "subtitle": "Ice Skating Training",
+        "description": "Recording of a training session on Ice by the Candeloro Show Company for the show \"The Sandman's Daughter\"",
+        "image": "/assets/img/portfolio/recap/portfolio_candeloro-training-RECAP.gif",
+        "instaLink": "https://www.instagram.com/reel/C0PfZ-nLqvD/",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/candeloro.jpg",
+        "date": "November 2023",
+        "tags": [
+            "🎥 Video production",
+            "⛸️"
+        ]
+    },
+    {
         "title": "VivaTeam 2023 Reacp",
         "subtitle": "Short video recap of #VivaTeam",
         "description": "Short video to recap #VivaTeam 2023 program by @VivaTechnology and @TechUp Network",
@@ -154,7 +182,7 @@
         ]
     },
     {
-        "title": "France Digital Day 2022",
+        "title": "France Digitale Day 2022",
         "subtitle": "Event photography and volunteer program",
         "description": "Took over 950 Pictures of volunteer program by @TechUp Network at #FDDay 2022",
         "image": "/assets/img/cover.jpg",
@@ -294,7 +322,7 @@
         ]
     },
     {
-        "title": "France Digital Day 2021",
+        "title": "France Digitale Day 2021",
         "subtitle": "Event photography and volunteer program",
         "description": "Took over 350 Pictures of volunteer program by @TechUp Network at #FDDay 2021",
         "image": "/assets/img/cover.jpg",
@@ -350,7 +378,7 @@
         ]
     },
     {
-        "title": "France Digital Day 2020",
+        "title": "France Digitale Day 2020",
         "subtitle": "Event photography and volunteer program",
         "description": "Took over 458 Pictures of volunteer program by @TechUp Network at #FDDay 2020",
         "image": "/assets/img/cover.jpg",
