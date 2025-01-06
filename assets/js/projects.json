@@ -1,5 +1,176 @@
 [
     {
+        "title": "Alice au Pays des Merveilles @Avignon",
+        "subtitle": "GAM COMPAGNIE",
+        "description": "Daily recording and story to show behind the scenes of the residence in Avignon",
+        "image": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDY0Nzc1ODYwNjQ0Njg5?story_media_id=3519526516199493498&",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/GAM.jpg",
+        "date": "December 2024",
+        "tags": [
+            "🎥 Video production",
+            "🩰"
+        ]
+    },
+    {
+        "title": "\"Récital anniversaire / Bithday recital\"",
+        "subtitle": "Singing recital by Sophie Arama",
+        "description": "Video recording of a singing, piano and violin recital in a church",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/sophie.jpg",
+        "date": "November 2024",
+        "tags": [
+            "🎥 Video production",
+            "🎶"
+        ]
+    },
+    {
+        "title": "PGW 2024",
+        "subtitle": "Interveiw and event convering",
+        "description": "Interviews and event coverage for TechUp Network",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/PGW.jpg",
+        "date": "October 2024",
+        "tags": [
+            "🎥 Video production",
+            "🚀"
+        ]
+    },
+    {
+        "title": "PROTECTION CIVILE",
+        "subtitle": "Photography of rescew team",
+        "description": "Photographic coverage of a rescue team on a race at Versailles",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/LOGO_PCPS.png",
+        "date": "October 2024",
+        "tags": [
+            "📸 Photo production",
+            "🚑"
+        ]
+    },
+    {
+        "title": "\"Après un rêve / After a dream\"",
+        "subtitle": "Singing recital by Sophie Arama",
+        "description": "Lighting and recording of a singing and harp recital",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "https://www.instagram.com/reel/DCU3-gsgp5R/",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/sophie.jpg",
+        "date": "October 2024",
+        "tags": [
+            "🎥 Video production",
+            "🎶"
+        ]
+    },
+    {
+        "title": "Les éloges au Châtelet",
+        "subtitle": "GAM COMPAGNIE x REPETTO x L'ELOGE",
+        "description": "Backstage shooting of this unique event",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/GAM.jpg",
+        "date": "October 2024",
+        "tags": [
+            "🎥 Video production",
+            "📸 Photo production",
+            "🩰"
+        ]
+    },
+    {
+        "title": "Marly Poesie",
+        "subtitle": "Shooting Baudelaire poem with @Emilia Sambor",
+        "description": "Filming of a choreography by @Emilia Sambor under a poem by Charles Bodelaire \"Life has no age\"",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "https://www.instagram.com/reel/DAiwWERAZl5/?",
+        "youtubeLink": "https://youtu.be/5RNZWDkGm1Y?",
+        "logo": "/assets/img/portfolio/logo/GAM.jpg",
+        "date": "September 2024",
+        "tags": [
+            "🎥 Video production",
+            "🩰"
+        ]
+    },
+    {
+        "title": "Cie Misophony",
+        "subtitle": "Show event music and dance",
+        "description": "Event manager and production of an aftermovie of the day. Recording of the show",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/ciemisophony.jpg",
+        "date": "September 2024",
+        "tags": [
+            "🎥 Video production",
+            "🩰",
+            "🎭",
+            "🎶"
+        ]
+    },
+    {
+        "title": "Projet danse et mode aux Ocres",
+        "subtitle": "GAM COMPAGNIE",
+        "description": "Dance and fashion project in the ochres of Roussillon",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/GAM.jpg",
+        "date": "August 2024",
+        "tags": [
+            "🎥 Video production",
+            "🩰"
+        ]
+    },
+    {
+        "title": "Dance at Place du Châtelet",
+        "subtitle": "Personal project",
+        "description": "Short film made following an event in the streets of Paris for the Paris 2024 Paralympic Games",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "https://www.instagram.com/reel/C_NkVCeoV_Z/",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/PACHOURSE.jpg",
+        "date": "August 2024",
+        "tags": [
+            "🎥 Video production",
+            "🩰"
+        ]
+    },
+    {
+        "title": "PROTECTION CIVILE",
+        "subtitle": "internal video",
+        "description": "Partners' thank you video showing the organization of the command and the use of products offered or loaned by the companies",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/LOGO_PCPS.png",
+        "date": "August 2024",
+        "tags": [
+            "🎥 Video production",
+            "🚑"
+        ]
+    },
+    {
+        "title": "PROTECTION CIVILE",
+        "subtitle": "Video interview",
+        "description": "Video production covering the commitment of volunteers and their memories of the Paris 2024 Games",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "https://www.instagram.com/reel/C_ftfCXINSm/",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/LOGO_PCPS.png",
+        "date": "August 2024",
+        "tags": [
+            "🎥 Video production",
+            "🚑"
+        ]
+    },
+    {
         "title": "VivaTeam 2024 Reacp",
         "subtitle": "Short video recap of #VivaTeam",
         "description": "Short video to recap #VivaTeam 2024 program by @VivaTechnology and @TechUp Network",
@@ -11,6 +182,34 @@
         "tags": [
             "🎥 Video production",
             "🎤"
+        ]
+    },
+    {
+        "title": "Marion bernard",
+        "subtitle": "Dance project",
+        "description": "Filming and editing a dance project",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "https://www.instagram.com/reel/DBRl_A_Crqn/",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/marion.jpg",
+        "date": "July 2024",
+        "tags": [
+            "🎥 Video production",
+            "🩰"
+        ]
+    },
+    {
+        "title": "Ultimate Figure Skater 2024",
+        "subtitle": "Acribatic figure skating compeition and photo mode shooting",
+        "description": "Coverage of an event produced by Alexander Liubchenko at Aren’ice, recording of interviews, backstage, general atmosphere and photo shoot etc.",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/arenice.jpg",
+        "date": "June 2024",
+        "tags": [
+            "🎥 Video production",
+            "⛸️"
         ]
     },
     {
@@ -39,6 +238,20 @@
         "tags": [
             "🎥 Video production",
             "🎤"
+        ]
+    },
+    {
+        "title": "PROTECTION CIVILE PARIS 5",
+        "subtitle": "Shift at fire department",
+        "description": "Coverage of 35 hours of on-call duty in 3 rescue centers of the Paris Fire Brigade",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/LOGO_PCPS.png",
+        "date": "May 2024",
+        "tags": [
+            "🎥 Video production",
+            "🚑"
         ]
     },
     {
@@ -127,6 +340,20 @@
     },
     {
         "title": "Candeloro and Co",
+        "subtitle": "Making images for a trailer",
+        "description": "making shots on the ice with Alexander Liubchenko",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "https://www.instagram.com/reel/C8Eq2bBIb1g",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/candeloro.jpg",
+        "date": "June 2024",
+        "tags": [
+            "🎥 Video production",
+            "⛸️"
+        ]
+    },
+    {
+        "title": "Candeloro and Co",
         "subtitle": "Ice Skating Spectacle",
         "description": "Recording of a public representation of the show \"The Sandman's Daughter\" on ice by the Candeloro Show Company. An HDR production with an initial captation in Apple ProResRaw 6K",
         "image": "/assets/img/portfolio/recap/portfolio_candeloro-spectacle-RECAP.gif",
@@ -151,6 +378,20 @@
         "tags": [
             "🎥 Video production",
             "⛸️"
+        ]
+    },
+    {
+        "title": "PGW 2023",
+        "subtitle": "Interveiw and event convering",
+        "description": "Interviews and event coverage for TechUp Network",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "",
+        "logo": "/assets/img/portfolio/logo/PGW.jpg",
+        "date": "October 2023",
+        "tags": [
+            "🎥 Video production",
+            "🚀"
         ]
     },
     {
@@ -252,6 +493,32 @@
         ]
     },
     {
+        "title": "FUTURS in 3 words",
+        "subtitle": "by @TechUp Network",
+        "description": "Short interview to introduce the event",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "https://www.instagram.com/p/CUXonAaoBLB/",
+        "youtubeLink": "https://youtu.be/3J2eEQgJ5HA?",
+        "logo": "/assets/img/portfolio/logo/techup.jpg",
+        "date": "September 2021",
+        "tags": [
+            "🎥 Video production"
+        ]
+    },
+    {
+        "title": "FUTURS Trailer",
+        "subtitle": "by @TechUp Network",
+        "description": "Short video to introduce the event",
+        "image": "/assets/img/cover.jpg",
+        "instaLink": "",
+        "youtubeLink": "https://youtu.be/8vPILjv0c8Y?",
+        "logo": "/assets/img/portfolio/logo/techup.jpg",
+        "date": "September 2021",
+        "tags": [
+            "🎥 Video production"
+        ]
+    },
+    {
         "title": "IMMUNITY",
         "subtitle": "Backstage - Repetition",
         "description": "Short backstage movie about photoshooting made by Hugo (@_gohu).",
@@ -343,7 +610,7 @@
         "instaLink": "",
         "youtubeLink": "",
         "logo": "/assets/img/portfolio/logo/FD.jpg",
-        "date": "September 2020",
+        "date": "September 2021",
         "tags": [
             "📸 Photo production",
             "🎤"
